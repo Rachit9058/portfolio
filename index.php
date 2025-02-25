@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <title>Rachit | Personal CVvvvv</title>
+    <title>Rachit | Personal CV</title>
     <link rel="icon" href="img/logo_only.png" type="image/png" sizes="16x16" />
     <link rel="stylesheet" href="css/icofont.min.css" />
     <link rel="stylesheet" href="css/foundation.min.css" />
